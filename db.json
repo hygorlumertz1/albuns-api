@@ -1,0 +1,28 @@
+{
+    "albuns": [
+      {
+        "id": 1,
+        "titulo": "Natureza",
+        "autor": "Hygor",
+        "imagem": "https://picsum.photos/id/1018/400/300"
+      },
+      {
+        "id": 2,
+        "titulo": "Cidade",
+        "autor": "Vini",
+        "imagem": "https://picsum.photos/id/1015/400/300"
+      },
+      {
+        "id": 3,
+        "titulo": "Montanhas",
+        "autor": "Karine",
+        "imagem": "https://picsum.photos/id/1003/400/300"
+      },
+      {
+        "id": 4,
+        "titulo": "Praia",
+        "autor": "Lucas",
+        "imagem": "https://picsum.photos/id/1016/400/300"
+      }
+    ]
+  }  
